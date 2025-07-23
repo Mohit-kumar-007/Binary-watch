@@ -2,6 +2,8 @@
 
 A simple DIY binary watch project using ESP32 microcontroller and LEDs to display time in binary format.
 
+##Youtube Video link - (https://youtube.com/shorts/v_yORGDut5M?feature=share)
+
 ## Overview
 
 This project creates a binary clock/watch using an ESP32 microcontroller and LEDs. The time is displayed in binary format with separate LED indicators for hours and minutes.
