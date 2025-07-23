@@ -1,0 +1,11 @@
+Function	LED Bit	GPIO Pin
+Hours ->    H0	16
+	        H1	17
+	        H2	18
+	        H3	19
+Minutes	->  M0	21
+	        M1	22
+	        M2	23
+	        M3	25
+	        M4	26
+	        M5	27
